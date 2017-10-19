@@ -1,0 +1,2 @@
+var = 'hi'
+print(var)
